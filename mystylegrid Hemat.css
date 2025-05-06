@@ -1,0 +1,184 @@
+
+body{
+
+    background-color: #f3edeb;
+}
+
+.parent{
+    display:grid;
+    grid-template-columns:repeat(14, 1fr) ;
+    grid-template-rows:repeat(16, 1fr) ;
+    gap: 10px;
+    height: 150vh;
+    width: 98vw;
+  
+}
+
+.parent > div{
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+*
+{
+    text-decoration: none;
+} 
+.navbar{
+    background: #D32F2F;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: solid 6px black;
+}
+
+
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo a{
+    font-size: 35px;
+    font-weight: 600;
+    color:white ;
+}
+
+li{
+    list-style:none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    font-size: 18px ;
+    font-weight: bold;
+    margin-right: 25px;
+}
+
+button{
+    background-color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    width:90px;
+
+}
+
+button a{
+    color: white; 
+    font-weight: bold;
+    font-size: 15px;
+}
+#grid-div11 {
+    background-color: #eb171f;
+
+    grid-column: 1/4;
+    grid-row: 1/6 ;
+
+
+}
+#pancake {
+    color: #eb171f;
+}
+#hej{
+    height: 100%;
+    width: 100%;
+}
+#grid-div22 {
+    background-color: #eb171f;
+    grid-column: 4/11;
+    grid-row:  1/6;
+   
+}
+
+#grid-div33 {
+    background-color: #93a995;
+    
+    grid-column: 1/4;
+    grid-row:  6/12;
+}
+#grid-div44 {
+    background-image: url(man\ u\ stad.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    grid-column: 1/15;
+    grid-row: 12/17;
+}
+
+#grid-div66 {
+    background-color: 	#93a995;
+    grid-column: 11/15;
+    grid-row: 8/12;
+}
+#grid-div77 {
+    background-color: #eb171f;
+    grid-column: 4/11;
+    grid-row: 6/10;
+}
+#grid-div88 {
+    background-color: #D32F2F;
+    color: #93a995;
+    grid-column: 4/11;
+    grid-row:  10/12;
+}
+
+h1{
+    color: #388E3C;
+    margin-left: 480px;
+    font-size: 40px;
+}
+
+#grid-div99 {
+    background-color: rgb(0, 0, 0);
+    grid-column: 11/15;
+    grid-row:  1/8;
+}
+#andora{
+    height: 100%;
+    width: 100%;
+}
+#mb{
+    height: 100%;
+    width: 100%;
+}
+
+#video1{
+    height: 100%;
+    width: 100%;
+}
+#textus{
+    font-size: large;
+    color:	#000000;
+    font-size: 24px;
+    padding: 24px;
+}
+#textu{
+    font-size: large;
+    color: #000000;
+    font-size: 24px;
+    padding: 24px;
+}
+
+#textua{
+    font-size: large;
+    color: 		#ffffff;
+    font-size: 24px;
+    padding: 28px;
+}
+#textuv{
+   font-size: 28px;
+   background: rgb(56, 142, 60, 0.30);
+    border: dotted;
+    color: #ffffff;
+    padding: 6px;
+  
+   
+}
+
+
+#hejo{
+height: 100%;
+width: 100%;
+}
+

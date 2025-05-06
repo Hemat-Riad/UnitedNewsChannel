@@ -1,0 +1,341 @@
+body{
+    background-color: #ffffff;
+}
+
+
+*
+{
+    text-decoration: none;
+} 
+.navbar{
+    background: #D32F2F;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: solid 6px black;
+    width: 1370px;
+
+}
+
+
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.logo a{
+    font-size: 35px;
+    font-weight: 600;
+    color:white ;
+}
+
+li{
+    list-style:none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    font-size: 18px ;
+    font-weight: bold;
+    margin-right: 25px;
+}
+
+button{
+    background-color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    width:90px;
+
+}
+
+button a{
+    color: white; 
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+h1{
+    color: #388E3C;
+    margin-left: 600px;
+    font-size: 60px;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: nowrap row;
+
+    height: 500px;
+    width: 1400px;
+    background-color: #D32F2F;
+    justify-content:center;
+    align-items: center;
+    border: solid 5px black;
+   
+}
+
+#right-div2 {
+    height: 450px;
+    width: 700px;
+    background-image: url(ChatGPT\ Image\ May\ 3\,\ 2025\,\ 02_13_38\ PM.png); 
+    background-repeat: no-repeat;
+    background-size: 700px;
+    border-radius: 10% / 50%;
+    border: solid 6px #333333;
+}
+#left-div1 {
+    height: 250px;
+  
+    width: 550px;
+    background-size: 400px 300px;
+    padding: 20px;
+   
+  
+   
+ 
+
+}
+    
+#text2 {
+    font-size: 27px; 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+#right-div4{
+   height: 800px;
+   width: 1390px;
+align-self: center;
+    background-image: url(leo\ pepsi.jpg); 
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    border: solid 6px #333333;
+  
+
+}
+.flex-container4{ 
+    height: 1400px;
+    width: 1400px;
+    display: flex;
+    flex-flow: nowrap column;
+    
+    gap:10px;
+    background-color: #D32F2F;
+    border: solid 5px black;
+    align-items: start;
+   
+}
+
+
+
+#left-div3 {
+    font-size: 100px; 
+    color: rgb(0, 0, 0);
+    align-self:flex-start;
+    font:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    margin: 16px;
+    border: #333333 solid 7px;
+    padding-left:40px;
+  
+
+}
+
+
+.flex-container5{
+    height: 1400px;
+    width: 1400px;
+    display: flex;
+    flex-flow: nowrap column;
+    
+    gap:10px;
+    background-color: #D32F2F;
+    border: solid 5px #000000;
+    align-items: start;
+}
+#lille::before{
+    content: "BREAKING -";
+    color:red;
+    font-size: 100%; 
+}
+
+#lilleeee::before{
+    content: "BREAKING -";
+    color:red;
+    font-size: 100%; 
+}
+#right-div5{
+    height: 800px;
+    width: 1390px;
+ align-self: center;
+     background-image: url(esport.jpg); 
+     background-repeat: no-repeat;
+     background-size: 100%;
+   
+     border: solid 6px #333333;
+   
+ 
+ }
+
+ #left-div6 {
+    font-size: 80px; 
+    color: rgb(0, 0, 0);
+    align-self:flex-start;
+    font:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    margin: 16px;
+    border: #333333 solid 7px;
+    padding-left:75px;
+  
+ }
+
+
+
+.flex-container6{
+    height: 1400px;
+    width: 1400px;
+    display: flex;
+    flex-flow: nowrap column;
+    
+    gap:10px;
+    background-color: #D32F2F;
+    border: solid 5px black;
+    align-items: start;
+}
+
+#right-div7{
+     height: 800px;
+    width: 1390px;
+ align-self: center;
+     background-image: url(Elon.png); 
+     background-repeat: no-repeat;
+     background-size: 100%;
+   
+     border: solid 6px #333333;
+}
+
+#left-div8{
+    font-size: 90px; 
+    color: rgb(0, 0, 0);
+    align-self:flex-start;
+    font:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    margin: 16px;
+    border: #333333 solid 7px;
+    padding-left:75px;}
+
+.flex-container7{
+    height: 1400px;
+    width: 1400px;
+    display: flex;
+    flex-flow: nowrap column;
+    
+    gap:10px;
+    background-color: #D32F2F;
+    border: solid 5px black;
+    align-items: start;
+}
+#right-div9{  
+    height: 800px;
+    width: 1390px;
+ align-self: center;
+     background-image: url(count.jpg); 
+     background-repeat: no-repeat;
+     background-size: 100%;
+   
+     border: solid 6px #333333;
+    }
+
+    #left-div10{
+        font-size: 90px; 
+    color: rgb(0, 0, 0);
+    align-self:flex-start;
+    font:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    margin: 16px;
+    border: #3333330 solid 7px;
+    padding-left:45px;
+}
+    
+.flex-container8{
+    height: 1400px;
+    width: 1400px;
+    display: flex;
+    flex-flow: nowrap column;
+    
+    gap:10px;
+    background-color: #D32F2F;
+    border: solid 5px black;
+    align-items: start;
+}
+
+#right-div11{
+    height: 800px;
+    width: 1390px;
+ align-self: center;
+     background-image: url(sbaha.png); 
+     background-repeat: no-repeat;
+     background-size: 100%;
+   
+     border: solid 6px #333333;
+}
+
+#left-div12{
+    font-size: 90px; 
+    color: rgb(0, 0, 0);
+    align-self:flex-start;
+    font:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    margin: 16px;
+    border: #333333 solid 7px;
+    padding-left:75px;
+}
+
+.flex-container9{
+    height: 1400px;
+    width: 1400px;
+    display: flex;
+    flex-flow: nowrap column;
+    
+    gap:10px;
+    background-color: #D32F2F;
+    border: solid 5px black;
+    align-items: start;
+}
+
+#right-div13{ 
+    height: 890px;
+    width: 1390px;
+ align-self: center;
+     background-image: url(forfeit1.png); 
+     background-repeat: no-repeat;
+     background-size: 100%;
+   
+     border: solid 6px #333333;
+    }
+
+
+     #left-div14{
+        font-size: 80px; 
+        color: rgb(0, 0, 0);
+        align-self:flex-start;
+        font:bold;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background-color: white;
+        margin: 16px;
+        border: #333333 solid 7px;
+        padding-left:75px;
+     }
