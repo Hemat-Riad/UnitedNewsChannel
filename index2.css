@@ -6,6 +6,8 @@
     width: auto;
 
      }
+
+*
 {
     text-decoration: none;
 } 
@@ -57,6 +59,8 @@ button a{
     font-weight: bold;
     font-size: 15px;
 }
+
+
 
 
 #div1 {
@@ -219,5 +223,4 @@ button:hover {
     color: white;
     text-decoration: none;
 }
-
 
