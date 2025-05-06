@@ -113,7 +113,7 @@ h1{
    height: 800px;
    width: 1390px;
 align-self: center;
-    background-image: url(leo\ pepsi.jpg); 
+    background-image: url(lio2.jpg); 
     background-repeat: no-repeat;
     background-size: 100%;
   
@@ -122,7 +122,7 @@ align-self: center;
 
 }
 .flex-container4{ 
-    height: 1400px;
+    height: 900px;
     width: 1400px;
     display: flex;
     flex-flow: nowrap column;
@@ -137,22 +137,23 @@ align-self: center;
 
 
 #left-div3 {
-    font-size: 100px; 
+    font-size: 27px; 
     color: rgb(0, 0, 0);
     align-self:flex-start;
-    font:bold;
+    font-weight:bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: white;
     margin: 16px;
     border: #333333 solid 7px;
     padding-left:40px;
+    padding-right:40px;
   
 
 }
 
 
 .flex-container5{
-    height: 1400px;
+    height: 900px;
     width: 1400px;
     display: flex;
     flex-flow: nowrap column;
@@ -187,22 +188,23 @@ align-self: center;
  }
 
  #left-div6 {
-    font-size: 80px; 
+    font-size: 27px; 
     color: rgb(0, 0, 0);
     align-self:flex-start;
-    font:bold;
+    font-weight:bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: white;
     margin: 16px;
     border: #333333 solid 7px;
-    padding-left:75px;
+    padding-left:40px;
+    padding-right:40px;
   
  }
 
 
 
 .flex-container6{
-    height: 1400px;
+    height: 900px;
     width: 1400px;
     display: flex;
     flex-flow: nowrap column;
@@ -225,18 +227,20 @@ align-self: center;
 }
 
 #left-div8{
-    font-size: 90px; 
+    font-size: 27px; 
     color: rgb(0, 0, 0);
     align-self:flex-start;
-    font:bold;
+    font-weight:bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: white;
     margin: 16px;
     border: #333333 solid 7px;
-    padding-left:75px;}
+    padding-left:40px;
+    padding-right:40px;
+}
 
 .flex-container7{
-    height: 1400px;
+    height: 900px;
     width: 1400px;
     display: flex;
     flex-flow: nowrap column;
@@ -258,19 +262,20 @@ align-self: center;
     }
 
     #left-div10{
-        font-size: 90px; 
-    color: rgb(0, 0, 0);
-    align-self:flex-start;
-    font:bold;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: white;
-    margin: 16px;
-    border: #3333330 solid 7px;
-    padding-left:45px;
+        font-size: 27px; 
+        color: rgb(0, 0, 0);
+        align-self:flex-start;
+        font-weight:bold;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background-color: white;
+        margin: 16px;
+        border: #333333 solid 7px;
+        padding-left:40px;
+        padding-right:40px;
 }
     
 .flex-container8{
-    height: 1400px;
+    height: 900px;
     width: 1400px;
     display: flex;
     flex-flow: nowrap column;
@@ -293,19 +298,20 @@ align-self: center;
 }
 
 #left-div12{
-    font-size: 90px; 
+    font-size: 27px; 
     color: rgb(0, 0, 0);
     align-self:flex-start;
-    font:bold;
+    font-weight:bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: white;
     margin: 16px;
     border: #333333 solid 7px;
-    padding-left:75px;
+    padding-left:40px;
+    padding-right:40px;
 }
 
 .flex-container9{
-    height: 1400px;
+    height: 900px;
     width: 1400px;
     display: flex;
     flex-flow: nowrap column;
@@ -329,13 +335,14 @@ align-self: center;
 
 
      #left-div14{
-        font-size: 80px; 
-        color: rgb(0, 0, 0);
-        align-self:flex-start;
-        font:bold;
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        background-color: white;
-        margin: 16px;
-        border: #333333 solid 7px;
-        padding-left:75px;
+        font-size: 27px; 
+    color: rgb(0, 0, 0);
+    align-self:flex-start;
+    font-weight:bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    margin: 16px;
+    border: #333333 solid 7px;
+    padding-left:40px;
+    padding-right:40px;
      }
