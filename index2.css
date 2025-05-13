@@ -127,12 +127,12 @@
 #footer li {
     padding-left: 40px;  
     padding-top: 30px;  
-    color: black;
+    color: white;
 }
 
 /* Add this to style the link inside the footer */
 #footer a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
@@ -159,13 +159,12 @@
     color: white;
 }
 
-/* Add this to style the link inside the footer */
 #footer2 a {
     color: white;
     text-decoration: none;
 }
 
-/* Optional: keep it green on hover, visited, and active */
+
 #footer2 a:visited,
 #footer2 a:hover,
 #footer2 a:active {
