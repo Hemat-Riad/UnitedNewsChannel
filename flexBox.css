@@ -77,8 +77,8 @@ h1{
 }
 
 #right-div2 {
-    height: 450px;
-    width: 700px;
+    height: 200px;
+    width: 300px;
     background-image: url(ChatGPT\ Image\ May\ 3\,\ 2025\,\ 02_13_38\ PM.png); 
     background-repeat: no-repeat;
     background-size: 700px;
@@ -86,14 +86,17 @@ h1{
     border: solid 6px #333333;
 }
 
-#right-div2 {
-    height: 450px;
-    width: 700px;
+
+#right-div3 {
+    height: 200px;
+    width: 300px;
     background-image: url(ChatGPT\ Image\ May\ 3\,\ 2025\,\ 02_13_38\ PM.png); 
     background-repeat: no-repeat;
     background-size: 700px;
     border-radius: 10% / 50%;
     border: solid 6px #333333;
+    display: flex;
+    align-self: start;
 }
 #left-div1 {
     height: 250px;
